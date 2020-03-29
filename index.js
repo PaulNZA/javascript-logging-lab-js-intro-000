@@ -1,2 +1,2 @@
 console.error("Please work!")
-Console.log("is this thing on")
+console.log("is this thing on")
